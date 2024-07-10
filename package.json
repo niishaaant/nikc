@@ -1,0 +1,23 @@
+{
+  "name": "nikc",
+  "version": "1.0.0",
+  "description": "check name",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niishaaant/nikc.git"
+  },
+  "keywords": [
+    "aaa"
+  ],
+  "author": "nikc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niishaaant/nikc/issues"
+  },
+  "homepage": "https://github.com/niishaaant/nikc#readme"
+}
